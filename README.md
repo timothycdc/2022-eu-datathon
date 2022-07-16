@@ -1,1 +1,1 @@
-### 2022 datathon by citadel (Europe)
+### 2022 datathon by Citadel (Europe)
