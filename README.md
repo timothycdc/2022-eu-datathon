@@ -1,1 +1,1 @@
-# 2022-eu-datathon
+# citadel-europe
